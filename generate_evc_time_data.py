@@ -131,4 +131,3 @@ class TimeValueGenerator:
 
         return power_values
 
-
